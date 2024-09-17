@@ -1,6 +1,9 @@
 body {
-  background-color: #ffecfb;
+  background-color: rgb(243, 208, 238);
+
+  font-family: "Roboto", sans-serif;
 }
+
 .weather-app {
   background-color: white;
   max-width: 600px;
