@@ -3,7 +3,10 @@ body {
 
   font-family: "Roboto", sans-serif;
 }
-
+header {
+  padding: 0 0 40px 0;
+  border-bottom: 1px solid rgb(252, 246, 251);
+}
 .weather-app {
   background-color: white;
   max-width: 600px;
@@ -30,4 +33,8 @@ body {
   border-radius: 10px;
   padding: 10px;
   font-size: 15px;
+}
+footer {
+  padding: 40px 0 0 0;
+  border-top: 1px solid rgb(252, 246, 251);
 }
